@@ -1,0 +1,59 @@
+/* app css stylesheet */
+
+.menu {
+    list-style: none;
+    border-bottom: 0.1em solid black;
+    margin-bottom: 2em;
+    padding: 0 0 0.5em;
+}
+
+.menu:before {
+    content: "[";
+}
+
+.menu:after {
+    content: "]";
+}
+
+.menu>li {
+    display: inline;
+}
+
+.menu>li+li:before {
+    content: "|";
+    padding-right: 0.3em;
+}
+
+.templates {
+    text-align: center;
+    background-color: 'gray';
+}
+
+.templates .col-sm {
+    margin-bottom: 40px;
+}
+
+
+/* .templates img {
+    width: 70%;
+} */
+
+.templates a {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.img-full {
+    width: 100%;
+}
+
+.imgsize {
+    height: 350px;
+    width: 250px;
+}
+
+
+/* .listdesign {
+    margin-top: 50px;
+} */

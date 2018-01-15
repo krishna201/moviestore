@@ -1,0 +1,165 @@
+[{
+        "id": 1,
+        "name": "2012(2009)",
+        "descrition": "A frustrated writer struggles to keep his family alive when a series of global catastrophes threatens to annihilate mankind.",
+        "type": "Action, Adventure, Sci-Fi",
+        "imdb": 5.8,
+        "images": [{
+            "name": "2012.jpg"
+        }]
+    },
+    {
+        "id": 2,
+        "name": "Avatar (2009)",
+        "descrition": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "type": "Action, Adventure, Fantasy",
+        "imdb": 7.8,
+        "images": [{
+            "name": "Avatar.jpg"
+        }]
+    },
+    {
+        "id": 3,
+        "name": "Cowboys & Aliens (2011)",
+        "descrition": "A spaceship arrives in Arizona, 1873, to take over the Earth, starting with the Wild West region. A posse of cowboys and natives are all that stand in their way.",
+        "type": "Action, Sci-Fi, Thriller",
+        "imdb": 6.0,
+        "images": [{
+            "name": "cowboys--aliens.jpg"
+        }]
+    },
+    {
+        "id": 4,
+        "name": "The Dark Knight (2008)",
+        "descrition": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "type": "Action, Crime, Drama",
+        "imdb": 9.0,
+        "images": [{
+            "name": "dark-knight.jpg"
+        }, {
+            "name": "darknight.jpg"
+        }, {
+            "name": "thedarknight.jpg"
+        }]
+    },
+    {
+        "id": 5,
+        "name": "Logan (2017)",
+        "descrition": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+        "type": "Action, Drama, Sci-Fi",
+        "imdb": 8.1,
+        "images": [{
+            "name": "download.jpg"
+        }]
+    },
+    {
+        "id": 6,
+        "name": "Fight Club (1999)",
+        "descrition": "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.",
+        "type": " Drama",
+        "imdb": 8.8,
+        "images": [{
+            "name": "fight-club.jpg"
+        }]
+    },
+    {
+        "id": 7,
+        "name": "Evil Laugh (1986)",
+        "descrition": "A group of Med students fix up an old house over a weekend. Where a mass murder occurred 10 years earlier. Mayhem ensues.",
+        "type": "Comedy, Horror ",
+        "imdb": 5.1,
+        "images": [{
+            "name": "evil-laugh.jpg"
+        }]
+    },
+    {
+        "id": 8,
+        "name": "The Grey (2011)",
+        "descrition": "After their plane crashes in Alaska, six oil workers are led by a skilled huntsman to survival, but a pack of merciless wolves haunts their every step.",
+        "type": " Action, Adventure, Drama ",
+        "imdb": 6.8,
+        "images": [{
+            "name": "grey-movie-poster.jpg"
+        }]
+    },
+    {
+        "id": 9,
+        "name": "I, Frankenstein (2014)",
+        "descrition": "Frankenstein's creature finds himself caught in an all-out, centuries old war between two immortal clans.",
+        "type": " Action, Fantasy, Horror",
+        "imdb": 6.0,
+        "images": [{
+            "name": "i-frankenstein.jpg"
+        }]
+    },
+    {
+        "id": 10,
+        "name": "Pacific Rim (2013)",
+        "descrition": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+        "type": "Action, Adventure, Sci-Fi",
+        "imdb": 7.0,
+        "images": [{
+            "name": "Pacific_Rim_a_p.jpg"
+        }]
+    },
+    {
+        "id": 11,
+        "name": "Pan (2015)",
+        "descrition": "Twelve-year-old orphan Peter is spirited away to the magical world of Neverland, where he finds both fun and danger, and ultimately discovers his destiny -- to become the hero who will be for ever known as Peter Pan.",
+        "type": " Adventure, Family, Fantasy",
+        "imdb": 5.8,
+        "images": [{
+            "name": "pan.jpg"
+        }]
+    },
+    {
+        "id": 12,
+        "name": "The ABCs of Death (2012)",
+        "descrition": "A 26-chapter anthology that showcases death in all its vicious wonder and brutal beauty.",
+        "type": " Comedy, Horror",
+        "imdb": 4.7,
+        "images": [{
+            "name": "the-abcs-of-death-the-death.jpg"
+        }]
+    },
+    {
+        "id": 13,
+        "name": "The Little Vampire 3D (2017)",
+        "descrition": "The story of Rudolph, a thirteen year old vampire, whose clan is threatened by a notorious vampire hunter. He meets Tony, a mortal of the same age, who is fascinated by old castles, graveyards and - vampires. Tony helps Rudolph in an action and humor packed battle against their adversaries, and together they save Rudolph's family and become friends.",
+        "type": " Animation, Adventure, Comedy",
+        "imdb": 5.4,
+        "images": [{
+            "name": "thelittlevampire.jpg"
+        }]
+    },
+    {
+        "id": 14,
+        "name": "Thor: The Dark World (2013)",
+        "descrition": "When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.",
+        "type": " Action, Adventure, Sci-Fi ",
+        "imdb": 7.0,
+        "images": [{
+            "name": "thor-thedarkworld.jpg"
+        }]
+    },
+    {
+        "id": 15,
+        "name": "Titanic (1997)",
+        "descrition": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "type": "Drama, Romance",
+        "imdb": 7.8,
+        "images": [{
+            "name": "titanic_u-L-F4S6CQ0.jpg"
+        }]
+    },
+    {
+        "id": 16,
+        "name": "Looper (2012)",
+        "descrition": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.",
+        "type": " Action, Crime, Drama ",
+        "imdb": 7.4,
+        "images": [{
+            "name": "looper.jpg"
+        }]
+    }
+]
